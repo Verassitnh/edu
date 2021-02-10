@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Jackson&#x27;s Blog</title>
-    <link href="https://verassitnh.github.io/edu/feed.xml" rel="self" />
-    <link href="https://verassitnh.github.io/edu" />
+    <link href="https://jacksonmooring.com/feed.xml" rel="self" />
+    <link href="https://jacksonmooring.com" />
     <updated>2021-02-10T15:56:56-06:00</updated>
     <author>
         <name>Jackson Mooring</name>
     </author>
-    <id>https://verassitnh.github.io/edu</id>
+    <id>https://jacksonmooring.com</id>
 
     <entry>
         <title>This is a post about politics</title>
         <author>
             <name>Jackson Mooring</name>
         </author>
-        <link href="https://verassitnh.github.io/edu/this-is-a-post-about-politics/"/>
-        <id>https://verassitnh.github.io/edu/this-is-a-post-about-politics/</id>
+        <link href="https://jacksonmooring.com/this-is-a-post-about-politics/"/>
+        <id>https://jacksonmooring.com/this-is-a-post-about-politics/</id>
             <category term="Series: American Politics"/>
 
         <updated>2021-02-10T15:56:11-06:00</updated>
@@ -32,14 +32,14 @@
         <author>
             <name>Jackson Mooring</name>
         </author>
-        <link href="https://verassitnh.github.io/edu/who-i-am/"/>
-        <id>https://verassitnh.github.io/edu/who-i-am/</id>
+        <link href="https://jacksonmooring.com/who-i-am/"/>
+        <id>https://jacksonmooring.com/who-i-am/</id>
 
         <updated>2021-02-10T15:56:56-06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://verassitnh.github.io/edu/media/posts/2/ash-edmonds-Koxa-GX_5zs-unsplash.jpg" alt="Colorful Laptop" />
+                    <img src="https://jacksonmooring.com/media/posts/2/ash-edmonds-Koxa-GX_5zs-unsplash.jpg" alt="Colorful Laptop" />
                 <h1>Hey Friends 👋</h1>
 <p>Hi, my name is Jackson. I am a homeschooled high school student. I am a reader, coder, aspiring entrepreneur, and a child of God. I love to be productive, to be helpful, to give, and to get stuff done. I like to study, work, eat, read, live, and run. My day generally starts at 5AM and ends at 8PM. Every day I spend 2 hours of my time participating in productive recreation. My pleasure reading generally consists of historical fiction or historical non-fiction.</p>
 <p> </p>
@@ -62,14 +62,14 @@
         <author>
             <name>Jackson Mooring</name>
         </author>
-        <link href="https://verassitnh.github.io/edu/skunk-war-english-1-lesson-10-assignmen/"/>
-        <id>https://verassitnh.github.io/edu/skunk-war-english-1-lesson-10-assignmen/</id>
+        <link href="https://jacksonmooring.com/skunk-war-english-1-lesson-10-assignmen/"/>
+        <id>https://jacksonmooring.com/skunk-war-english-1-lesson-10-assignmen/</id>
 
         <updated>2021-02-10T14:06:35-06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://verassitnh.github.io/edu/media/posts/1/pexels-harrison-haines-3536247.jpg" alt="" />
+                    <img src="https://jacksonmooring.com/media/posts/1/pexels-harrison-haines-3536247.jpg" alt="" />
                 <article class="article scrollappear appear appeared"><header class="article-header">
 <div class="article-list-footer">
 <div class="article-list-tags"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">It wasn’t that long ago, when on a return trip from locking up the cow, as dusk settled into night, I almost tripped over a skunk. I jumped to the side, but it was already to late. That wicked weasel had left his sticky aroma clinging to my jeans. I smelled bad. Very bad. Right then and there I declared war on skunks.</span></div>
