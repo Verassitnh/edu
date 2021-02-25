@@ -1,71 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Jackson&#x27;s Blog</title>
+    <title>Jackson&#x27;s School Blog</title>
     <link href="https://jacksonmooring.com/feed.xml" rel="self" />
     <link href="https://jacksonmooring.com" />
-    <updated>2021-02-10T15:56:56-06:00</updated>
+    <updated>2021-02-11T19:14:46-06:00</updated>
     <author>
         <name>Jackson Mooring</name>
     </author>
     <id>https://jacksonmooring.com</id>
 
     <entry>
-        <title>This is a post about politics</title>
-        <author>
-            <name>Jackson Mooring</name>
-        </author>
-        <link href="https://jacksonmooring.com/this-is-a-post-about-politics/"/>
-        <id>https://jacksonmooring.com/this-is-a-post-about-politics/</id>
-            <category term="Series: American Politics"/>
-
-        <updated>2021-02-10T15:56:11-06:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <p> </p>
-<p>sdgsdfgdfgdfdfgdfgdgdfg</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Who I am</title>
-        <author>
-            <name>Jackson Mooring</name>
-        </author>
-        <link href="https://jacksonmooring.com/who-i-am/"/>
-        <id>https://jacksonmooring.com/who-i-am/</id>
-
-        <updated>2021-02-10T15:56:56-06:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://jacksonmooring.com/media/posts/2/ash-edmonds-Koxa-GX_5zs-unsplash.jpg" alt="Colorful Laptop" />
-                <h1>Hey Friends 👋</h1>
-<p>Hi, my name is Jackson. I am a homeschooled high school student. I am a reader, coder, aspiring entrepreneur, and a child of God. I love to be productive, to be helpful, to give, and to get stuff done. I like to study, work, eat, read, live, and run. My day generally starts at 5AM and ends at 8PM. Every day I spend 2 hours of my time participating in productive recreation. My pleasure reading generally consists of historical fiction or historical non-fiction.</p>
-<p> </p>
-<h2>Some random facts about me:</h2>
-<ul>
-<li>I design, code, live, serve, excercise and work.</li>
-<li>I look forward to the future.</li>
-<li>I am passionate about history.</li>
-<li>I am a writer, reader, efficiency enthusiast, homeschooler, and a Christian.</li>
-<li>My goal is projection, not perfection.</li>
-<li>The wind blows, time flies, and I run.</li>
-</ul>
-<p> </p>
-<p>I like to think that I have a big imagination. I would rather do an extra Algebra lesson than eat a mushroom. I would rather write an extra paper than do an extra Algebra lesson. I love Algebra. I hate mushrooms. My pet-peeve is getting interupted for no reason at all. I have 8 cute siblings.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Skunk War - English 1 Lesson 10 Assignmen</title>
+        <title>Skunk War</title>
         <author>
             <name>Jackson Mooring</name>
         </author>
         <link href="https://jacksonmooring.com/skunk-war-english-1-lesson-10-assignmen/"/>
         <id>https://jacksonmooring.com/skunk-war-english-1-lesson-10-assignmen/</id>
+            <category term="Series: Life Lessons"/>
 
-        <updated>2021-02-10T14:06:35-06:00</updated>
+        <updated>2021-02-11T19:14:46-06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
