@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Jackson&#x27;s School Blog</title>
-    <link href="https://jacksonmooring.com/feed.xml" rel="self" />
-    <link href="https://jacksonmooring.com" />
+    <link href="https://edu.jacksonmooring.com/feed.xml" rel="self" />
+    <link href="https://edu.jacksonmooring.com" />
     <updated>2021-02-11T19:14:46-06:00</updated>
     <author>
         <name>Jackson Mooring</name>
     </author>
-    <id>https://jacksonmooring.com</id>
+    <id>https://edu.jacksonmooring.com</id>
 
     <entry>
         <title>Skunk War</title>
         <author>
             <name>Jackson Mooring</name>
         </author>
-        <link href="https://jacksonmooring.com/skunk-war-english-1-lesson-10-assignmen/"/>
-        <id>https://jacksonmooring.com/skunk-war-english-1-lesson-10-assignmen/</id>
+        <link href="https://edu.jacksonmooring.com/skunk-war-english-1-lesson-10-assignmen/"/>
+        <id>https://edu.jacksonmooring.com/skunk-war-english-1-lesson-10-assignmen/</id>
             <category term="Series: Life Lessons"/>
 
         <updated>2021-02-11T19:14:46-06:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jacksonmooring.com/media/posts/1/pexels-harrison-haines-3536247.jpg" alt="" />
+                    <img src="https://edu.jacksonmooring.com/media/posts/1/pexels-harrison-haines-3536247.jpg" alt="" />
                 <article class="article scrollappear appear appeared"><header class="article-header">
 <div class="article-list-footer">
 <div class="article-list-tags"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">It wasn’t that long ago, when on a return trip from locking up the cow, as dusk settled into night, I almost tripped over a skunk. I jumped to the side, but it was already to late. That wicked weasel had left his sticky aroma clinging to my jeans. I smelled bad. Very bad. Right then and there I declared war on skunks.</span></div>
